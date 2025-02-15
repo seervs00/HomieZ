@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Cozy Cottage",
+    "price": "$250,000",
+    "detail": "2 Bed | 1 Bath | 1200 sqft",
+    "description": "Charming cottage, renovated kitchen, cozy living room, perfect for a small family.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Modern Townhouse",
+    "price": "$450,000",
+    "detail": "3 Bed | 2.5 Bath | 1800 sqft",
+    "description": "Sleek modern townhouse, prime location, rooftop terrace, high-end finishes, city views.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Rustic Farmhouse",
+    "price": "$350,000",
+    "detail": "4 Bed | 3 Bath | 2200 sqft",
+    "description": "Quaint farmhouse, nature surroundings, spacious rooms, barn for expansion or hobbies.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Luxury Penthouse",
+    "price": "$1,200,000",
+    "detail": "4 Bed | 4.5 Bath | 3500 sqft",
+    "description": "Elegant penthouse, panoramic city views, high ceilings, luxury amenities, private rooftop pool.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Lakefront Retreat",
+    "price": "$600,000",
+    "detail": "3 Bed | 2 Bath | 2000 sqft",
+    "description": "Tranquil lakefront property, private dock, spacious deck, modern interiors, breathtaking views.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Historic Mansion",
+    "price": "$2,500,000",
+    "detail": "6 Bed | 4.5 Bath | 6000 sqft",
+    "description": "Grand historic mansion, timeless architecture, expansive grounds, luxurious interiors, ballroom.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Mountain Retreat",
+    "price": "$700,000",
+    "detail": "5 Bed | 3.5 Bath | 2800 sqft",
+    "description": "Secluded mountain retreat, hiking trails, cozy fireplace, large windows, spacious deck.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Beachfront Villa",
+    "price": "$1,800,000",
+    "detail": "4 Bed | 3 Bath | 3200 sqft",
+    "description": "Stunning beachfront villa, direct ocean access, modern design, private beach, sunset views.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "City View Condo",
+    "price": "$350,000",
+    "detail": "2 Bed | 2 Bath | 1200 sqft",
+    "description": "Convenient city living, skyline views, contemporary condo, updated features, balcony.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Garden Oasis",
+    "price": "$500,000",
+    "detail": "3 Bed | 2.5 Bath | 1800 sqft",
+    "description": "Charming home, beautiful garden, spacious bedrooms, gourmet kitchen, backyard retreat.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sustainable Living",
+    "price": "$400,000",
+    "detail": "2 Bed | 1.5 Bath | 1500 sqft",
+    "description": "Energy-efficient home, solar panels, eco-friendly features, open layout, modern finishes.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Country Estate",
+    "price": "$1,000,000",
+    "detail": "5 Bed | 4 Bath | 4000 sqft",
+    "description": "Expansive country estate, rolling acres, classic design, spacious rooms, pool.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sky-High Condo",
+    "price": "$900,000",
+    "detail": "3 Bed | 3.5 Bath | 2400 sqft",
+    "description": "Luxurious condo, floor-to-ceiling windows, unobstructed city views, high-end finishes.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Riverside Retreat",
+    "price": "$550,000",
+    "detail": "4 Bed | 2.5 Bath | 2100 sqft",
+    "description": "Tranquil riverside property, spacious backyard, updated kitchen, cozy living spaces, deck.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Golf Course Living",
+    "price": "$750,000",
+    "detail": "3 Bed | 2.5 Bath | 1900 sqft",
+    "description": "Elegant home, golf course views, open floor plan, high ceilings, private patio.",
+    "image": "./r2.png"
+  }
+]

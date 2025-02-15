@@ -1,0 +1,8 @@
+.button-container{
+      height: 30px;
+      width: 30px;
+      padding: 3px;
+      border: none;
+      border-radius: 5px;
+      background-color: rgb(238, 238, 255);
+}
